@@ -1,2 +1,2 @@
-# responsive-portfolio
-portfolio with media queries
+# basic-portfolio
+portfolio
